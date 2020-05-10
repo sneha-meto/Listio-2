@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260948099145",
+    "firebase_url": "https://listio-b37de.firebaseio.com",
+    "project_id": "listio-b37de",
+    "storage_bucket": "listio-b37de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260948099145:android:f90d9eaff1a9644df6ff98",
+        "android_client_info": {
+          "package_name": "com.snehametlon.listio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260948099145-hlq6q7srbl2c1ot0hak5inee0q8h2ovr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDfsMKKe4nSB-XFCr_UQd0c3splw56c2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260948099145-hlq6q7srbl2c1ot0hak5inee0q8h2ovr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
